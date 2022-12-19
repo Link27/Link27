@@ -7,3 +7,5 @@ that I use to also host a couple of VMs for automation scripts and video game se
 where I was creating a simple game called Block Runner. A simple concept to get the block from point A to point B without dying or falling off the edge.
 
 I am hoping to add some of my code to hopefully show some of my competence and build a better reputation for myself.
+
+Here is a link to my github website to also learn more about me: https://link27.github.io/
